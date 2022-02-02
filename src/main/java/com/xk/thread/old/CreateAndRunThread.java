@@ -1,4 +1,4 @@
-package com.xk.thread;
+package com.xk.thread.old;
 
 import lombok.extern.slf4j.Slf4j;
 
